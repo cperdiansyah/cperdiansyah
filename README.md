@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Want know about me? here it is
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Redux**
 - 📫 How to reach me **chandraperdiansyah@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal web [blog site](https://medium.com/@cperdiansyah)
