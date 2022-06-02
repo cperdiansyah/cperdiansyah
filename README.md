@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Oh Hello There, Chandra Here</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style='width:30px !important; object-fit:contain'> Oh Hello There, Chandra Here</h1>
 
 <!--
 **cperdiansyah/cperdiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
