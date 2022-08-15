@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 ### Here we go my Github Stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=cperdiansyah&show_icons=true&theme=vue-dark&border_radius=15 " alt="cperdiansyah" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cperdiansyah&show_icons=true&hide=css,html&theme=vue-dark&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api?username=cperdiansyah&show_icons=true&theme=vue-dark" alt="cperdiansyah" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cperdiansyah&show_icons=true&hide=css,html&theme=vue-dark">
 </p>
