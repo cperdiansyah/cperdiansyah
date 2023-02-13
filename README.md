@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Want know about me? here it is
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **NEXT.js**
 - 📫 How to reach me **chandraperdiansyah@gmail.com**
 - ⚡ Fun fact **Something new, creates new problems**
 - 👋 My personal web [blog site](https://medium.com/@cperdiansyah)
@@ -58,7 +58,8 @@ Here are some ideas to get you started:
 
 ### Here we go my Github Stats:
 
-<p>
+<p style="display:flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=cperdiansyah&show_icons=true&theme=vue-dark" alt="cperdiansyah" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cperdiansyah&show_icons=true&hide=css,html&theme=vue-dark">
 </p>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=cperdiansyah&theme=dark)](https://git.io/streak-stats) -->
