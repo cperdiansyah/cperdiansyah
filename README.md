@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 ### Here we go my Github Stats:
 <p style="display:flex;">
 <img src="https://github-readme-stats-jet-kappa-55.vercel.app/api?username=cperdiansyah&show_icons=true&theme=vue-dark" alt="cperdiansyah stats" />
-<img src = "https://github-readme-stats-jet-kappa-55.vercel.app/api/top-langs/?username=cperdiansyah&show_icons=true&hide=css,html&theme=vue-dark" alt="cperdiansyah top language">
+<img src = "https://github-readme-stats-jet-kappa-55.vercel.app/api/top-langs/?username=cperdiansyah&show_icons=true&hide=css,html,php&theme=vue-dark" alt="cperdiansyah top language">
 </p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=cperdiansyah&theme=dark)](https://git.io/streak-stats) -->
